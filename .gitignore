@@ -8,3 +8,5 @@ dist/
 *.egg
 *.egg-info
 *.whl
+
+*.swp
